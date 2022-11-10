@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1,https://playlist-iptv.ru
+https://playlist-iptv.ru/wp-content/uploads/2018/11/tv-logo.png
+#EXTINF:-1 ,XXX 150
+http://s1.hdporus.com/content/vod/s1852/480/index.m3u8
+#EXTINF:-1 ,XXX 151
+http://s1.hdporus.com/content/vod/s1853/480/index.m3u8
+#EXTINF:-1 ,XXX 152
+http://s1.hdporus.com/content/vod/s1854/480/index.m3u8
+#EXTINF:-1 ,XXX 153
+http://s1.hdporus.com/content/vod/s1855/480/index.m3u8
+#EXTINF:-1 ,XXX 155
+http://s1.hdporus.com/content/vod/s1857/480/index.m3u8
+#EXTINF:-1 ,XXX 156
+http://s1.hdporus.com/content/vod/s1858/480/index.m3u8
+#EXTINF:-1 ,XXX 157
+http://s1.hdporus.com/content/vod/s1859/480/index.m3u8
+#EXTINF:-1 ,XXX 158
+http://s1.hdporus.com/content/vod/s1860/480/index.m3u8
+#EXTINF:-1 ,XXX 159
+http://s1.hdporus.com/content/vod/s1861/480/index.m3u8
+#EXTINF:-1 ,XXX 16
+http://s1.hdporus.com/content/vod/s1716/480/index.m3u8
+#EXTINF:-1 ,XXX 160
+http://s1.hdporus.com/content/vod/s1862/480/index.m3u8
+#EXTINF:-1 ,XXX 161
+http://s1.hdporus.com/content/vod/s1863/480/index.m3u8
+#EXTINF:-1 ,XXX 162
+http://s1.hdporus.com/content/vod/s1864/480/index.m3u8
+#EXTINF:-1 ,XXX 163
+http://s1.hdporus.com/content/vod/s1865/480/index.m3u8
+#EXTINF:-1 ,XXX 164
+http://s1.hdporus.com/content/vod/s1866/480/index.m3u8
+#EXTINF:-1 ,XXX 165
+http://s1.hdporus.com/content/vod/s1867/480/index.m3u8
+#EXTINF:-1 ,XXX 166
+http://s1.hdporus.com/content/vod/s1868/480/index.m3u8
+#EXTINF:-1 ,XXX 167
+http://s1.hdporus.com/content/vod/s1869/480/index.m3u8
+#EXTINF:-1 ,XXX 168
+http://s1.hdporus.com/content/vod/s1871/480/index.m3u8
+#EXTINF:-1 ,XXX 168
+http://s1.hdporus.com/content/vod/s1870/480/index.m3u8
+#EXTINF:-1 ,XXX 169
+http://s1.hdporus.com/content/vod/s1872/480/index.m3u8
